@@ -1,0 +1,1023 @@
+﻿Ticker,Name,Country/Region,Currency
+PLLFLNJK PLDP Index,Platts LNG Japan/Korea Spot Crg,,
+NBPG1MON OECM Index,UK NBP Natural Gas Forward M1,,
+CO1 Comdty,Brent,,
+NG1 COMB Comdty,Generic 1st 'NG' Future,,
+CL1 COMB Comdty,WTI,,
+XW1 Comdty,Newcastle Coal,,
+LPXBHRBS Index,Germany Power,,
+USGG10YR Index,US Generic Govt 10 Yr,,
+USGG5YR Index,US Generic Govt 5 Yr,,
+USGG2YR Index,US Generic Govt 2 Yr,,
+GSLIQFPT Index,Freeport Feedgas,,
+GSLIQSPI Index,Sabine Pass Feedgas,,
+GSLIQCOV Index,Cove Point Feedgas,,
+GSLIQCAM Index,Cameron Feedgas,,
+GSLIQCCH Index,Corpus Christi,,
+PEURJKCC Index,European Jet CIF NWE Cargo Swap,,
+LQ12L001 Index,Asia Propane FEI CFR Cargo Swap,,
+LQ31L003 Index,European ARA Propane CIF Cargo Swap,,
+LPGFAGPP Index,Saudi Arabia CP Propane FOB Cargo Swap,,
+PCRUDTB1 Index,European Crude Dated Brent (Platts) Financial,,
+PCRUDUB1 Index,Middle East Crude Dubai (USD/bbl) Swap,,
+PEURJKCC Index,Name European Jet CIF NWE Cargo Swap,,
+CL1 Comdty,Generic 1st 'CL' Future,US,USD
+CO1 Comdty,Generic 1st 'CO' Future,GB,USD
+NG1 Comdty,Generic 1st 'NG' Future,US,USD
+CLK4 Comdty,WTI CRUDE FUTURE  May24,US,USD
+ISIX62IU Index,Iron Ore Spot Price Index 62%,CH,USD
+TTFG1MON Index,Netherlands TTF Natural Gas Fo,NE,EUR
+NGK24 Comdty,NATURAL GAS FUTR  May24,US,USD
+XB1 Comdty,Generic 1st 'XB' Future,US,USD
+COM4 Comdty,BRENT CRUDE FUTR  Jun24,GB,USD
+XW1 Comdty,Generic 1st 'XW' Future,GB,USD
+QSJ4 Comdty,Low Su Gasoil G   Apr24,GB,USD
+L4CNMJGO Index,China Lithium Carbonate 99.5%,CH,CNY
+HO1 Comdty,Generic 1st 'HO' Future,US,USD
+QS1 Comdty,Generic 1st 'QS' Future,GB,USD
+CRB CMDT Index,Commodity Research Bureau BLS/,US,USD
+ETFGTOTL Index,Total Known ETF Holdings of Go,,
+CRK321M1 Index,Bloomberg Nymex WTI Cushing Cr,US,USD
+GSLIQFPT Index,LNG Net Flows Freeport,US,
+GSPRODUS Index,Lower 48 Estimated Dry Gas Pro,US,
+XBK4 Comdty,GASOLINE RBOB FUT May24,US,USD
+FN1 Comdty,Generic 1st 'FN' Future,GB,GBP
+USCRWTIC Index,Crude Oil Domestic Sweet (DSW),US,USD
+GOLDLNPM Index,LBMA Gold Price PM USD,GB,USD
+HOK4 Comdty,NY Harb ULSD Fut  May24,US,USD
+ELGBYR1  Index,Germany Power Baseload Forward,GE,EUR
+IMM5JNCN Index,Bloomberg CFTC CME Japanese Ye,,
+TZT1 Comdty,Generic 1st 'TZT' Future,NL,EUR
+SIVCTOTL Index,Steelhome China Iron Ore Total,CH,
+TTFGDAHD Index,Netherlands TTF Natural Gas Fo,NE,EUR
+NGUSHHUB Index,Henry Hub Natural Gas Trade Da,US,USD
+EUCRBRDT Index,Crude Oil Dated Brent FOB NWE,MULT,USD
+CRB RIND Index,Commodity Research Bureau BLS/,US,USD
+CGIEEUFU Index,GIE Europe Gas % Full,MULT,
+QSJ4QSK4 Comdty,GAS OIL FUT (IPE) J4-K4,GB,USD
+TTFUM1 Index,Netherlands TTF Natural Gas US,NE,USD
+CLK4CLM4 Comdty,CRUDE OIL SPREAD  K4-M4,US,USD
+JGL1 Comdty,Generic 1st 'LNG' Future,JP,JPY
+LTBMPRIN Index,Lithium Price Index,,
+FSQCM1 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+RIN4Y0 Index,US Biomass Based Diesel D4 RIN,US,USD
+TTFGCY1  Index,Netherlands TTF Natural Gas Fo,NE,EUR
+API21MON Index,Europe Coal 6000kcal CIF ARA F,MULT,USD
+CDSPHRAV Index,China Domestic Hot Rolled Stee,CH,CNY
+CC24M Z24 Index,US California Carbon Allowance,US,USD
+ELGB1MON Index,Germany Power Baseload Forward,GE,EUR
+LICNSPDU Index,China Spodumene Li2O 6%min CIF,AU,USD
+NGTXOASI Index,Waha Hub Natural Gas Trade Dat,US,USD
+UXCPSPTW Index,UxC Uranium U3O8 Weekly Spot P,MULT,USD
+AJKMM1 Index,Asia JKM LNG DES Japan-Korea C,JN,USD
+SHFCCOPD Index,Shanghai Futures Exchange Week,CH,
+CRKS321C Index,US Gulf Coast WTI Cushing Crud,US,USD
+SHRAPNOX Index,China Praseodymium-Neodymium O,CH,CNY
+USCRWCAS Index,Crude Oil Western Canadian Sel,CA,USD
+GSLIQTOT Index,LNG Net Flows US Total,US,
+XBK4XBM4 Comdty,GASOLINE RBOB SP  K4-M4,US,USD
+GCFPURGB Index,US Gulf NOLA Urea Granular Spo,US,USD
+STANHCXW Index,North America Steel Hot Rolled,US,USD
+HARDCOAL Index,Seaborn Hard Coking Coal Contr,AU,USD
+NZUSSPOT Index,Spot New Zealand Units (NZUs),NZ,NZD
+HOK4HOM4 Comdty,NY Harb ULSD Spd  K4-M4,US,USD
+CBT4TNCN Index,Bloomberg CFTC CBT 10-Yr US Tr,,
+FVXRM M24 Index,NYMEX RBOB Gasoline Futures mi,US,USD
+NBPGDAHD Index,UK NBP Natural Gas Forward Day,GB,GBp
+FSNGY 25 Index,Bloomberg Fair Value Price/Nym,US,USD
+BCSL0018 Index,European Crude Dated Brent Spo,MULT,USD
+IMM0ENCN Index,Bloomberg CFTC CME E-Mini S&P,,
+CEI1GNCN Index,Bloomberg CFTC CMX Gold Net No,US,
+ZACNITHE Index,China Copper Concentrate TC 25,CH,USD
+CGIEEUST Index,GIE Europe Gas Storage (TWh),MULT,
+COASQI55 Index,China Qinhuangdao Port Thermal,CH,CNY
+FVXRM K24 Index,NYMEX RBOB Gasoline Futures mi,US,USD
+GOLDLNAM Index,LBMA Gold Price AM USD,GB,USD
+EEXX04EA Index,EEX European Emission Allowanc,MULT,EUR
+USCSWCAS Index,Crude Western Canadian Select,MULT,USD
+CUAJ4 Comdty,Chicago Ethanol S Apr24,US,USD
+CRB FOOD Index,Commodity Research Bureau BLS/,US,USD
+COCOCPUS Index,International Cocoa Bean Price,MULT,USD
+IOECAU62 Index,Iron Ores Fines 62% Fe Offshor,CH,USD
+XWJ4 Comdty,ICE Newc Coal Fut Apr24,GB,USD
+FVQCM M24 Index,ICE Gasoil Futures minus ICE B,MULT,USD
+LPGSMBPP Index,North American Spot LPGs/NGLs,US,USd
+ELUB1MON Index,UK Power Baseload Forward Mont,GB,GBP
+PFATIOCH Index,PLATTS IODEX CFR CHINA 62% Fe,,USD
+FSQCM J24 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+FDBSM1 Index,Bloomberg Fair Value Price/Dat,GB,USD
+COMXCOPR Index,Comex Copper Inventory Data,US,
+LPGSMBPE Index,North American Spot LPGs/NGLs,US,USd
+JET1NECC Index,Jet Fuel NWE CIF Cargoes,MULT,USD
+TMF5 Comdty,ICE RTD CAL YEAR  Jan25,GB,USD
+LCBMCNBG Index,Lithium Carbonate EXW China (B,CH,USD
+PGCRDUBA Index,Middle East Dubai Crude FOB Fa,UA,USD
+CSCITLTL Index,ICE Total Exchange Total Coffe,US,
+SGLDWDUQ Index,Global Gold Demand from Centra,,
+ISIXSTSC Index,Steel Price Index Steel Compos,CH,CNY
+ARASGO Index,PJK International ARA Gas Oil,MULT,
+LPXBHRBS Index,Epex Spot Germany Day-Ahead Au,GE,EUR
+BCSL0090 Index,US Crude Oil WTI Cushing OK Sp,,USD
+COALMET1 Index,Metallurgical Coal/Coke Plant,US,USD
+EUETSSY1 Index,Spot Carbon Dioxide (CO2) Emis,MULT,EUR
+PAL2MALY Index,Peninsular Malaysian Palm Oil,MA,MYR
+FNK4 Comdty,UK Natural Gas FutMay24,GB,GBP
+FVQCM1 Index,ICE Gasoil Futures minus ICE B,MULT,USD
+GAANTOTI Index,Norway Total Exit Intraday Wit,,
+JETIGCPR Index,Jet Fuel 54 Colonial Pasadena,US,USD
+STNWHCXW Index,North Europe Steel Hot Rolled,MULT,EUR
+QSCO1 Index,Bloomberg ICE Gasoil Brent Cru,MULT,USD
+OPCRTOTL Index,Bloomberg Total OPEC Crude Oil,,
+LCBMAUSF Index,Spodumene 6% FOB Australia,AU,USD
+CFCDUMMN Index,CFTC CMX Gold Managed Money Ne,US,
+NGK4NGM4 Comdty,NATURAL GAS SPRD  K4-M4,US,USD
+EECXM1 Index,European CO2 Emission EU ETS P,MULT,EUR
+NGCAAECO Index,AECO C Hub USD/MMBtu Natural G,CA,USD
+TTF0NXHR Index,ICE Endex Dutch TTF Gas Spot P,NE,EUR
+DIAMINDX Index,Diamond Standard Index Price,MULT,USD
+QSM4COM4 Comdty,ICE QS-CO Spread  M4-M4,GB,USD
+MRSELSCU Index,Metal Research Major Exchanges,US,
+OMLPDAHD Index,OMEL Day Ahead Average Electri,SP,EUR
+COM4CON4 Comdty,BRENT CRUDE FUTR  M4-N4,GB,USD
+XA1 Comdty,Generic 1st 'XA' Future,GB,USD
+HUCL1 Index,Bloomberg Nymex Gasoline Nymex,US,USD
+RIN6Y0 Index,US Ethanol D6 RINs Y0 Price,US,USD
+ENM4COM4 Comdty,ICE EN-CO Spread  M4-M4,GB,USD
+DETJ4 Comdty,Phelix DE Base M  Apr24,DE,EUR
+CDSPDRAV Index,China Domestic Steel Rebar 25,CH,CNY
+FVXRM1 Index,NYMEX RBOB Gasoline Futures mi,US,USD
+IVOLCRUD Index,Crude Oil 3M Implied Volatilit,,
+HOCL1 Index,Bloomberg Nymex Heating Oil Ny,US,USD
+FSQCQ Q324 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+IMM5PNCN Index,Bloomberg CFTC CME British Pou,,
+SLVRLND Index,LBMA Silver Price - Price/USD,GB,USD
+DOEDMGAS Index,DOE Motor Gasoline Total Produ,US,
+GCFPPGBZ Index,Brazil Potash CFR Granular Spo,BZ,USD
+NBPG1MON Index,UK NBP Natural Gas Forward M1,GB,GBp
+TFC1DLFN Index,CFTC CME Japanese Yen Leverage,,
+L4CNVHTQ Index,China Lithium Carbonate 99% DE,CH,CNY
+MOIGC87P Index,US Gulf Coast Gasoline 87 Octa,US,USd
+NRGSNG12 Index,Bloomberg Nymex Henry Hub Natu,US,USD
+FSNGY 24 Index,Bloomberg Fair Value Price/Nym,US,USD
+D27DAGNI Index,Dirty VLCC Arab Gulf to China,MULT,USD
+CECN0002 Index,China Yangshan Copper Cathode,CH,USD
+MERSHDH1 Index,Houston HDPE Blow Moulding gra,US,USD
+COCAIVTL Index,Cocoa Merchants Cocoa Beans In,US,
+GCFPAMTP Index,US Tampa Ammonia CFR Spot Pric,US,USD
+C5TCM1 Index,Capesize 5TC FFA 180kt Timecha,MULT,USD
+ELGBDAHD Index,Germany Power Baseload Forward,GE,EUR
+IMMBENCN Index,Bloomberg CFTC CME Euro Fx Net,,
+HWYDUSTL Index,EIA Weekly Retail On-Highway D,US,USD
+JMATRHOD Index,Johnson Matthey Rhodium Spot P,MULT,USD
+IVOLBREN Index,Brent 3M Implied Volatility,,
+ICCBBMMN Index,ICE Brent Crude COT Managed Mo,GB,
+ELGBY 25 Index,Germany Power Baseload Forward,GE,EUR
+COASNE60 Index,Australia Newcastle Port Therm,AU,USD
+ISIX65PU Index,Iron Ore Spot Price Index 65%,CH,USD
+RIN3Y0 Index,US Cellulosic Biofuel D3 RIN Y,US,USD
+HOK4CLK4 Comdty,NYM HO-CL SPREAD  K4-K4,US,USD
+UXCPU308 Index,UxC Uranium U3O8 Spot Price,,USD
+GSLIQCCH Index,LNG Net Flows Corpus Christi,US,
+NAMM00F7 Index,PLATTS Clean Copper Concentrat,,USD
+IRCNA62U Index,China Iron Ore Australian Fine,CH,USD
+TFF1NAIN Index,CFTC CME E Mini S&P 500 Asst M,,
+ACCUSPOT Index,Australia Carbon Credit Units,AU,AUD
+SSGSSFC3 Index,Soda Ash FOB China Physical Sp,CH,USD
+XBK4CLK4 Comdty,NYM XB-CL Spread  K4-K4,US,USD
+FSQCQ Q224 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+FSCLY 25 Index,Bloomberg Fair Value Price/Nym,US,USD
+ELSBYR1 Index,Spain Power Baseload Forward Y,SP,EUR
+JPIVLNGW Index,Japan LNG Inventory by Utiliti,JN,
+FVQCM K24 Index,ICE Gasoil Futures minus ICE B,MULT,USD
+BCSL0030 Index,US Gulf Coast Jet Fuel 54 Prom,US,USd
+WU1 Comdty,Generic 1st 'WU' Future,US,USD
+DET1 Comdty,Generic 1st 'DET' Future,DE,EUR
+L6CNVRAT Index,China Lithium Hydroxide Monohy,CH,CNY
+GSLIQSPI Index,LNG Net Flows Sabine Pass,US,
+FSNGY 26 Index,Bloomberg Fair Value Price/Nym,US,USD
+PCRUDTB1 Index,Platts European Dated Brent Cr,,USD
+FVXHM M24 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+HCCAM1 Index,APAC Hard Coking Coal FOB Aust,AU,USD
+ELUBDAHD Index,UK Power Baseload Forward Day,GB,GBP
+CUA1 Comdty,Generic 1st 'CUA' Future,US,USD
+XDUSFA Index,US Oil & Gas Exploration & Dri,,
+F5CNNP15 Index,China Nickel Pig Iron 8-12%,,CNY
+XO1 Comdty,Generic 1st 'XO' Future,GB,USD
+GSPRDHNV Index,Haynesville Estimated Dry Gas,,
+ZACNTC26 Index,China Treatment Charge Index f,,USD
+FVHRM M24 Index,NYMEX Heating Oil Futures minu,US,USD
+FSQCM M24 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+CIOITTAL Index,China Weekly Iron Ore Inventor,CH,
+COAS5500 Index,China CCI 5500 Thermal Coal Pr,CH,CNY
+IU34VSQW Index,EUA Future Investment Funds Ne,,
+GCFPDANO Index,US Gulf NOLA DAP Spot Price,US,USD
+PVSIPR00 Index,Solar Grade Polysilicon Price,MULT,USD
+TFF1DLFN Index,CFTC CME Japanese Yen Leverage,,
+NAMC0031 Index,PLATTS TSI Premium Hard Coking,,USD
+FSQCY 25 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+TRSSCTCT Index,Suez Canal (South>North) Conta,EG,
+KI1 Comdty,Generic 1st 'KI' Future,US,USD
+L4CNVTTG Index,China Lithium Carbonate Li2CO3,CH,CNY
+FVHRM K24 Index,NYMEX Heating Oil Futures minu,US,USD
+OILPHIST Index,Bloomberg Crude Oil Historical,US,USD
+CROMUS Index,DOE EIA US Crude Oil Productio,US,
+NGCDAECO Index,AECO C Hub CAD/Gj Natural Gas,CA,CAD
+NYM1CNCN Index,Bloomberg CFTC NYME Crude Oil,US,
+LNGG20DT Index,LNG on Water for at least 20 D,MULT,
+PDS1 Comdty,Generic 1st 'PDS' Future,ZA,ZAR
+FNNSM1 Index,Bloomberg Fair Value Price/NWE,MULT,USD
+NEX1Y Comdty,Generic 1st 'NEXY' Fut,NO,EUR
+CFCDQMMN Index,CFTC NYMEX Crude Oil Managed M,US,
+NGGCHOUS Index,Houston Ship Channel Natural G,US,USD
+CECN00CU Index,China Copper Cathode 99.95% Pr,CH,CNY
+IMM6ANCN Index,Bloomberg CFTC CME Australian,,
+IU60VSQW Index,Dutch TTF NatGas Base Load Inv,,
+OLO8SSM1 Index,Commodity3 Olive Oil Spain  Ex,SP,EUR
+ELFB1MON Index,France Baseload Power Forward,FR,EUR
+IMM6MNCN Index,Bloomberg CFTC CME Mexican Pes,,
+FSFUM1 Index,ICE UK Natural Gas NBP Futures,GB,USD
+ENK4 Comdty,WTI CRUDE FUTURE  May24,GB,USD
+CRB METL Index,Commodity Research Bureau BLS/,US,USD
+ICCTCTOT Index,ICE Certified Cotton Total,US,
+GCFPURMG Index,Middle East Urea Granular Spot,MULT,USD
+FBYF5 Comdty,Italian Base Year Jan25,DE,EUR
+EGTHDAHD Index,Germany THE Natural Gas Forwar,GE,EUR
+CECNST04 Index,China Copper Cathode Shanghai,,
+ICROVALD Index,ICE Robusta Coffee Total Valid,,
+FVHQM K24 Index,Bloomberg  Price/Nymex Heating,US,USd
+PJMF1MON Index,US Power PJM Western Hub Real,US,USD
+GSPRDPRM Index,Permian Estimated Dry Gas Prod,,
+BOXBBC9V Index,USDA Boxed Beef Cutout Value 6,US,USD
+GCFPPONO Index,US Gulf NOLA Potash Spot Price,US,USD
+DOEDDIST Index,DOE Distillate Products Suppli,US,
+EN1 Comdty,Generic 1st 'EN' Future,GB,USD
+IADMGOLD Index,Bloomberg Composite Gold Infla,US,USD
+RIN4Y 24 Index,US Biomass Based Diesel D4 RIN,US,USD
+EGTPNTLE Index,LNG to N Europe > NWE Gas Flow,,
+GSTMSMPL Index,Salt Storage Sample Facilities,US,
+FVHQM J24 Index,Bloomberg  Price/Nymex Heating,US,USd
+API2YR1 Index,Europe Coal 6000kcal CIF ARA F,MULT,USD
+CEI1CNCN Index,Bloomberg CFTC CMX Copper Net,US,
+CUR1EXTO Index,Russian total crude oil seabor,RU,
+FSWJM1 Index,Bloomberg Fair Value Price/Nor,MULT,USD
+NYC2UNCN Index,Bloomberg CFTC NYCE US Dollar,,
+PTT1M Comdty,Generic 1st 'PTT'Future,DE,EUR
+GKK24 Comdty,NAT GAS EUR OPT   May24,US,USD
+FINSETFD Index,US Gulf Ethylene (Olefins) FD,US,USd
+IVOLLCOP Index,LME Copper 3M Implied Volatili,,
+ELFBYR1 Index,France Baseload Power Forward,FR,EUR
+CTCTVSQW Index,Copper LME COT Investment Fund,,
+GCFPAMME Index,Middle East Ammonia Spot Price,MULT,USD
+JETKSPOT Index,Jet Fuel Singapore FOB Cargoes,SI,USD
+USWIUTTL Index,US Drilled But Uncompleted Wel,US,
+EDGEBEEF Index,HedgersEdge Beef Packer Margin,US,USD
+COMXGOLD Index,Comex Gold Inventory Data,US,
+CCB1AM1M Index,COCOA Butter CIF NWE M1,,EUR
+IHBAHBA Index,Indonesian Coal Reference Pric,ID,USD
+TCPMPQSD Index,Caustic Soda US - Export Spot,US,USD
+FVQCM Z24 Index,ICE Gasoil Futures minus ICE B,MULT,USD
+L4US995D Index,United States Lithium Carbonat,US,USD
+CMXOGNCN Index,Bloomberg CFTC CMX Gold Net No,US,
+FSWJM0 Index,Bloomberg Fair Value Price/Nor,MULT,USD
+FURAM1 Index,Bloomberg Commodity Fair Value,MULT,USD
+JCIASBCM Index,China Soybean Crush Margins,CH,CNY
+USRFRUSA Index,US Retail Automotive Gasoline,US,USD
+CFCDCMMN Index,CFTC CBT Corn Managed Money Ne,US,
+CGIEDEFU Index,GIE Germany Gas % Full,GE,
+DIEIGULP Index,ULSD 62 Colonial Pasadena MOC,US,USD
+HISTCNGH Index,US Continental Gas Heating Deg,,
+MERSPVHO Index,Houston PVC Resin Suspension P,US,USD
+GSDEDUSP Index,US Lower 48 Natural Gas Estima,US,
+LC3FM1 Index,FEI Asia Propane CFR Far East,MULT,USD
+AJTTM1 Index,Asia JKM LNG vs Netherlands Na,MULT,USD
+EEDATTF1 Index,PEGAS TTF Spot - Day-Ahead,NE,EUR
+FSXCM1 Index,Bloomberg Fair Value Price/RBO,US,USD
+BSLRGB1K Index,Gold Bar 1 Kilogram Spot Price,V1,CHF
+GLCNIM Index,China Non-Monetary Gold Total,,
+TZTK4 Comdty,TTF NAT GAS F     May24,NL,EUR
+GEBBM1 Index,European Gasoline EBOB FOB Rot,NE,USD
+CSCIPGTL Index,ICE Coffee Total Bags Pending,US,
+GPCNASPZ Index,China Graphite Electrode U.H.P,CH,USD
+DARATOTL Index,Genscape ARA Crude Total Tank,,
+XEN4 Comdty,ICE RTD QRTY COAL Jul24,GB,USD
+FSQCM K24 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+JGLK4 Comdty,LNG Platts JKM FU May24,JP,JPY
+CFCDTMMN Index,CFTC CMX Copper Managed Money,US,
+USCRWTIM Index,Crude Oil WTI Midland,US,USD
+CFFDUMMN Index,CFTC CMX Gold Managed Money Ne,US,
+JXYF5 Comdty,Phelix DE Base Y  Jan25,DE,EUR
+IMMOJNCN Index,Bloomberg CFTC CME Japanese Ye,,
+BAAWHYDP Index,CEPEA ESALQ Ethanol Hydrous Fu,BZ,BRL
+COCAEUTL Index,ICE Futures EU Cocoa Stockpile,MULT,
+MAZAUGTL Index,South Africa Manganese Ore 38%,SA,USD
+IISICHIN Index,IISI Crude Steel Production Da,CH,
+CECNST05 Index,China Copper Cathode Social In,,
+GK1 Comdty,Generic 1st 'GK' Future,US,USD
+RBOB87PM Index,RBOB Regular Gasoline NY Bucke,US,USD
+SHFAALUD Index,Shanghai Futures Exchange Week,CH,
+GSLIQCLC Index,LNG Net Flows Calcasieu Pass,US,
+FOK4 Comdty,FUEL OIL FUTURE   May24,CN,CNY
+ICCBAMMN Index,ICE Gasoil Futures COT Managed,GB,
+U61 Comdty,Generic 1st 'U6' Future,IN,INR
+GCFPNPKI Index,Green Markets North America Fe,US,USD
+MUC1 Comdty,Generic 1st 'MUC' Future,AE,USD
+FN3PM1 Index,ERCOT North 345KV Hub Real Tim,US,USD
+EXAPBDHD Index,EXAA Germany Day Ahead Baseloa,GE,EUR
+WCSISPOT Index,CA Crude Western Canadian Sele,,USD
+GDTRAUOZ Index,SPDR Gold Trust Gold Holdings,US,
+ST14IC Index,World Crude Oil & Liquid Fuels,,
+OPCRSAUD Index,Bloomberg OPEC Crude Oil Produ,SR,
+ARASGSLN Index,PJK International ARA Gasoline,MULT,
+FVXHM K24 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+STANCCXW Index,North America Steel Cold Rolle,US,USD
+CFCDGMMN Index,CFTC CBT Soyb Managed Money Ne,US,
+FZWWFST Index,Global Crude Oil Floating Stor,MULT,
+TTUSSPO2 Index,US Titanium Dioxide (TiO2) Spo,,USD
+TFF2HLFN Index,CFTC CBT 10 Year T Notes Lever,,
+AMUSDEL Index,US Midwest Aluminum Ingot Prem,US,USd
+API41MON Index,South Africa 6000kcal FOB Rich,SA,USD
+CLCO1 Index,Bloomberg First Month Nymex WT,US,USD
+DWOPRUSS Index,DOE Russia Crude Oil Productio,RU,
+PWNXFRAV Index,EPEX Spot Day-Ahead Baseload E,FR,EUR
+CNORTOTL Index,China Iron Ore Inventory Total,CH,
+FDUSM1 Index,Bloomberg Fair Value Price/Bre,MULT,USD
+GASL10PM Index,Singapore Gasoil 10 ppm Spot,SI,USD
+CCSMCUG1 Index,China Shanghai Changjiang Copp,CH,CNY
+PLLFLNJK Index,Platts LNG Japan/Korea Spot Cr,,USD
+PSVGDAHD Index,Italy PSV Natural Gas Forward,IT,EUR
+CN62SPOT Index,CH Iron Ore 62% Fe Swap Spot,CH,USD
+IBWWST Index,Global Lithium-Ion Battery Pri,,USD
+CRK321ST Index,Bloomberg Nymex WTI Crude Oil,US,USD
+CHCNBROM Index,China Chemicals SunSirs BR Bro,CH,CNY
+M4CNTSWC Index,China Manganese Ore Gabonese 4,CH,CNY
+DRCRRATE Index,Drewry Hong Kong-Los Angeles C,CH,USD
+RTEGNUCL Index,RTE France Generation Nuclear,FR,
+RBCITOTL Index,Steelhome China Rebar Total In,CH,
+FSCOM1   Index,Bloomberg Fair Value Price/ICE,GB,USD
+IMM5JNCS Index,CFTC CME Japanese Yen Non-Comm,,
+RSPR Index,American Iron and Steel Instit,US,
+CBT42NCN Index,Bloomberg CFTC CBT 2-Yr US Tre,,
+ELGBYR2  Index,Germany Power Baseload Forward,GE,EUR
+CKTJJCC Index,Japan Crude Cocktail Detailed,JN,USD
+WT1 Comdty,Generic 1st 'WT' Future,US,USD
+CCSMAL00 Index,China Shanghai Changjiang Alum,CH,CNY
+PCRUDBEB Index,Platts Dated Brent Crude Oil P,,EUR
+PNG1M Comdty,Generic 1st 'PNGM'Future,DE,EUR
+PLDMLNPM Index,London Metal Exchange Palladiu,GB,USD
+RLCNQKNI Index,China Titanium Dioxide R TiO2,CH,USD
+POLIUSGC Index,US Gulf Methanol FOB Price USd,US,USd
+ELUBYR1  Index,UK Power Baseload Forward Year,GB,GBP
+PLTMLNPM Index,London Metal Exchange Platinum,GB,USD
+QTTF5 Comdty,TTF NAT GAS YR    Jan25,NL,EUR
+SFCDTOTL Index,Shanghai Futures Exchange Copp,CH,
+TFF2HAIN Index,CFTC CBT 10 Year T Notes Asst,,
+DETJ4K4 Comdty,Phelix DE BL M SprJ4-K4,DE,EUR
+NEXJ4M Comdty,NOMX Nordic Base  Apr24,NO,EUR
+STANPLXW Index,North America Steel Plate Spot,US,USD
+CRKSM211 Index,Asia Minas Crude Oil 211 Crack,MULT,USD
+GSFLUSMX Index,Dry Gas Estimated Exports to M,,
+LNGATLSO Index,GIE Europe LNG Send-Out (GWh/d,BE,
+EPWREUGS Index,Europe Daily Average Power Gen,MULT,
+FGASM1 Index,Bloomberg Fair Value Singapore,SI,USD
+BXCNTQSC Index,China Bauxite Guinean 45%min C,CH,USD
+IMM4SNCN Index,Bloomberg CFTC CME Swiss Franc,,
+NAPHJPNC Index,Naphtha Japan CIF Cargoes,JN,USD
+FFACM1 Index,Bloomberg Fair Value/AECO Fixe,CA,CAD
+N2EXAM Index,N2EX Power Exchange UK Day-Ahe,GB,GBP
+ECK4 Comdty,E-MINI CRUDE OIL  May24,US,USD
+STTRSSCR Index,Turkey Steel Scrap (HMS 1/2 80,TU,USD
+FVHQM1 Index,Bloomberg  Price/Nymex Heating,US,USd
+PTINM1 Index,US Mont Belvieu Propane TET vs,US,USD
+COY Comdty,BRENT CRUDE INDEX (ICE),GB,USD
+LPGSMBNB Index,North American Spot LPGs/NGLs,US,USd
+CRCRSDIR Index,China Shandong Independent Ref,CH,
+FSDUM1 Index,Bloomberg Fair Value Price/Dub,UA,USD
+GNEBM1 Index,European Gasoline EBOB FOB Rot,NE,USD
+POLICSSA Index,SE Asia Caustic Soda CFR Price,MULT,USD
+NASS000C Index,PLATTS Platts TSI US HRC EXW I,,USD
+FSCLY 24 Index,Bloomberg Fair Value Price/Nym,US,USD
+FSQCQ Q424 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+GCFPAMWE Index,Western Europe Ammonia CFR Spo,MULT,USD
+NABT000B Index,PLATTS Lithium Spodumene 6% FO,,USD
+HHUBSPOT Index,US Natural Gas Henry Hub Physi,US,USD
+PUSAPRPY Index,NEXANT Price - Polypropylene -,US,USD
+L4SC995 Index,South America Lithium Carbonat,MULT,USD
+TTFGY 25 Index,Netherlands TTF Natural Gas Fo,NE,EUR
+TRC1 Comdty,Generic 1st 'TRC' Future,CN,CNY
+FVHRM1 Index,NYMEX Heating Oil Futures minu,US,USD
+MRESCENT Index,Malaysian Rubber Board Centrif,MA,MYr
+GSDEDUST Index,Dry Gas Estimated Total Consum,US,
+FSDBM1 Index,Bloomberg Fair Value Price/Dat,GB,USD
+FSG1M1 Index,BFV/Asia Gasoil 10ppm FOB Sing,SI,USD
+IRCNIM Index,China Iron Ore Imports,CH,
+NCG1M Comdty,Generic 1st 'NCGM'Fut,DE,EUR
+STCO0023 Index,CISA Crude Steel Production Ch,CH,
+COMXSILV Index,Comex Silver Inventory Data,US,
+ELSB1MON Index,Spain Power Baseload Forward M,SP,EUR
+SYBBBRF1 Index,Commodity3 Brazil Soybeans FOB,BZ,USd
+FVXHM J24 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+PCRUDUB1 Index,Platts Dubai Crude Oil First M,,USD
+PVMOSMP0 Index,Solar Standard Monocrystalline,MULT,USD
+FJNBM1 Index,Bloomberg Fair Value Price/NWE,MULT,USD
+LNGJLNJP Index,Japan JCC LNG (JLC) Import Pri,JN,USD
+UPHYMPHY Index,Uranium 308 Physical Spot Pric,,USD
+ST27AU Index,United States All Sectors Elec,US,USd
+USCRUHC1 Index,US Crude Oil Bakken Clearbrook,US,USD
+UKAAUPR Index,UK ETS Emission Auction - ICE,,GBP
+TFF1NLFN Index,CFTC CME E Mini S&P 500 Levera,,
+FSM3M1 Index,Bloomberg Fair Value Price/Mon,US,USD
+WEATTKHR Index,USDA No. 1 Hard Red Winter Whe,US,USD
+ACK321A Index,Bloomberg ICE Brent Crude Oil,US,USD
+USPSTTPO Index,Total United States Shale Oil,US,
+FVXCM M24 Index,NYMEX RBOB Gasoline Futures mi,US,USD
+NRGSCL12 Index,Bloomberg Nymex Crude Oil 12 M,US,USD
+SGLDWDUA Index,Global Gold Demand from Centra,,
+USCSWTIR Index,CME NYMEX Crude Oil Light Swee,US,USD
+DH1 Comdty,Generic 1st 'DH' Future,US,USD
+CORNILNC Index,USDA Illinois North Central No,US,USD
+FVHQM M24 Index,Bloomberg  Price/Nymex Heating,US,USd
+CFFDTMMN Index,CFTC CMX Copper Managed Money,US,
+APCRTAPI Index,Asia Tapis Crude FOB Kerteh Ca,MA,USD
+ARFOSO Index,Argentina Soybean Oil FOB Arge,AR,USD
+ENCO1 Index,Bloomberg 1st Month ICE WTI IC,MULT,USD
+TM1 Comdty,Generic 1st 'TM' Future,GB,USD
+CCCIIQTL Index,China Customs Crude Oil Total,CH,
+CFCDKMMN Index,CFTC ICE Cocoa Managed Money N,US,
+NEX1Q Comdty,Generic 1st 'NEXQ' Fut,NO,EUR
+NRGSNG24 Index,Bloomberg Nymex Henry Hub Natu,US,USD
+CDSPCRAV Index,China Domestic Cold Rolled Ste,CH,CNY
+VNEUJOQT Index,China Vanadium Pentoxide Flake,NE,USD
+FBFCM1 Index,Brent Fluid Catalytic Cracking,MULT,USD
+ELFBDAHD Index,France Baseload Power Forward,FR,EUR
+GSPRDAPP Index,Appalachia Estimated Dry Gas P,,
+FINSESEA Index,SE Asia Ethylene (Olefins) CFR,MULT,USD
+YGK4 Comdty,WTI CRUDE PHY TAS May24,US,USD
+FSNNM1 Index,Bloomberg Fair Value Price/NWE,MULT,USD
+ECM1W1 Index,European Crude Brent CFD W1 vs,GB,USD
+RE1 Comdty,Generic 1st 'RE' Future,US,USD
+DIEN10PM Index,ULSD NWE FOB Barges,MULT,USD
+BACAINDX Index,CEPEA ESALQ Fed Cattle(Male Fa,BZ,BRL
+XBK4HOK4 Comdty,NYM XB-HO Spread  K4-K4,US,USD
+FSCOY 25 Index,Bloomberg Fair Value Price/ICE,GB,USD
+PWEUCASO Index,NEXANT Price - Caustic Soda -,MULT,USD
+TRCJ4 Comdty,Thermal Coal      Apr24,CN,CNY
+GGC01005 Index,Conventional 87 Gasoline M Col,US,USD
+AEOP17 Index,Natural Gas LNG Price (Includi,US,
+ENGHRHOB Index,Engelhard Rhodium Bullion Spot,US,USD
+IOCISSIN Index,CISA 10Day Steel Inventory Of,CH,
+VCOFDAKL Index,Vietnam Dak Lak Robusta Coffee,VN,VND
+L6CNQWSA Index,China Lithium Hydroxide 56.5%,CH,CNY
+FSNGS SU24 Index,Bloomberg Fair Value Price/Nym,US,USD
+FVQCM U24 Index,ICE Gasoil Futures minus ICE B,MULT,USD
+IBDLM1 Index,ICE Brent Crude Oil US Gulf Co,MULT,USD
+USCRMEHC Index,Crude Oil WTI Houston,US,USD
+PEURBG00 Index,Platts ULSD 10ppm CIF NWE,,USD
+QSCO2 Index,Bloomberg ICE Gasoil Brent Cru,MULT,USD
+ICFUBMMN Index,ICE Brent Crude COT Managed Mo,GB,
+RGGISPOT Index,Regional Greenhouse Gas Initia,,USD
+USCRSYNC Index,Crude Oil Syncrude Sweet Blend,CA,USD
+FBHCM1 Index,Brent Hydrocracker (HCU) Refin,MULT,USD
+IMMPFNCN Index,Bloomberg CFTC CME Euro Fx Net,,
+OPECDALY Index,OPEC Secretariat Crude Oil Bas,MULT,USD
+COINGKRG Index,Certified Coin Exchange (CCEX),US,USD
+FVXHM1 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+METFLM 24 Index,Lithium Hydroxide China Spot P,CH,USD
+N3CNFRQV Index,China Nickel Sulfate Ni 22% Co,CH,CNY
+ACETHUBE Index,China Acetic Acid Spot Price H,CH,CNY
+OAWWES Index,Global Cocoa Ending Stocks,US,
+FOEXCUS Index,China Pulp BHKP PIX Index USD,CH,USD
+CRKS211C Index,US Gulf Coast WTI Cushing Crud,US,USD
+ELIBYR1 Index,Italy Power Baseload Forward Y,IT,EUR
+USLBKLB Index,Corrugated Paper Price Index 3,,USD
+EYCI$ Index,Australia Eastern Young Cattle,AU,AUD
+P4TCM1 Index,Panamax 4TC FFA 74kt Timechart,MULT,USD
+C5TCQ Q224 Index,Capesize 5TC FFA 180kt Timecha,MULT,USD
+IVOLCORN Index,Corn 3M Implied Volatility,,
+FSQCM Z24 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+FVXRM U24 Index,NYMEX RBOB Gasoline Futures mi,US,USD
+GSLIQCAM Index,LNG Net Flows Cameron,US,
+SAV4 Comdty,IPE NAT GAS SEASN Oct24,GB,GBP
+CDUTGLBL Index,Total Global Crude (Atmospheri,MULT,
+IMM5JNCL Index,CFTC CME Japanese Yen Non-Comm,,
+NASJ0027 Index,PLATTS Iron Ore 67.5% Fe DR Pe,,USD
+AJKMM0 Index,Asia JKM LNG DES Japan-Korea C,JN,USD
+FBWAM1 Index,Bloomberg Fair Value/Waha Insi,US,USD
+IVOLNATG Index,Natural Gas 3M Implied Volatil,,
+SOLRAPS Index,Average PV Grade Poly Silicon,,USD
+SWZDWPPR Index,Switzerland Wood Pellets Price,V1,CHF
+USCRECON Index,Edmonton Crude Oil C5 Condensa,CA,USD
+E93048GG Index,EIA 930 US Lower 48 Region Net,US,
+FSGAM1 Index,Bloomberg Commodity Fair Value,SI,USD
+ITPJ4 Comdty,Italian Base M Fu Apr24,DE,EUR
+CRCRSOER Index,China State Owned Refineries R,CH,
+BPCEEGGS Index,USDA Eggs Grade A Retail Price,US,USD
+FSXRM J24 Index,NYMEX RBOB Gasoline minus ICE,US,USD
+CRAMMMIX Index,Petroleos Mexicanos (Pemex) Me,MX,USD
+CRNUSPOT Index,US Corn Price Spot,,USD
+POLIETNW Index,NWE Ethylene CIF Price USD/MT,MULT,USD
+CSC1CNCN Index,Bloomberg CFTC CSCE Cocoa Net,US,
+GCFPAMNB Index,US Gulf NOLA Ammonia Spot Pric,US,USD
+ZAE1 Comdty,Generic 1st 'ZAE' Future,US,EUR
+FVHRM Z24 Index,NYMEX Heating Oil Futures minu,US,USD
+IU34AVAK Index,EUA Future Investment Funds Ne,,
+DOEAUTIL Index,DOE Change in Refining Capacit,US,
+FFWAM1 Index,Bloomberg Fair Value/Waha Insi,US,USD
+JETINYPR Index,Jet Fuel NY Buckeye MOC,US,USD
+IMM3NNCN Index,Bloomberg CFTC CME NASDAQ Mini,,
+GURPDMUA Index,US National Steel Rebar Spot P,US,USD
+IOCICRAT Index,CISA Daily Average Crude Steel,CH,
+SSGSCCR1 Index,Crude Palm Oil (CPO) CIF Rotte,NE,USD
+CNFCRATE Index,China Operating Rate of Blast,CH,
+WCSGSPOT Index,CA Crude WCS Houston (Argus) v,,USD
+GUCOUSMW Index,US Midwest Used Cooking Oil (U,,USD
+HRCITOTL Index,Steelhome China Hot Rolled Coi,CH,
+RSCURATE Index,American Iron and Steel Instit,US,
+NACX0005 Index,PLATTS Marine Fuel 0.5% FOB Sp,,USD
+POLIPVSE Index,SE Asia PVC CFR Price USD/Ton,MULT,USD
+FSM2M1 Index,Bloomberg Fair Value Price/Mon,US,USD
+SOYBCH1Y Index,USDA No. 1 Yellow Soybeans Spo,US,USD
+JMATIRID Index,Johnson Matthey Iridium Spot P,MULT,USD
+TTFDDAHD Index,ICE Endex Dutch TTF Gas Spot P,NE,EUR
+CBTOCNNT Index,CFTC CBOT Corn Non-Commercial,US,
+FSWTM1 Index,Bloomberg Fair Value/Nymex Wes,US,USD
+ST14WC Index,World Crude Oil & Liquid Fuels,,
+CUFURDTA Index,Total Copper Refined Demand,MULT,
+EDGEPORK Index,HedgersEdge Pork Packer Margin,US,USD
+CFCDSMMN Index,CFTC CMX Silver Managed Money,US,
+DIEIGULC Index,US Gulf Coast Ultra Low Sulfur,US,USd
+MERSETH2 Index,SE Asia Film-Grade Polyethylen,MULT,USD
+THRQWR05 Index,Thailand White Rice 5%,TH,USD
+PMTCLAUS Index,Platts Premium Low Vol HCC FOB,,USD
+USCRLLSS Index,Crude Oil Light Louisiana Swee,US,USD
+FNOSM1 Index,Bloomberg Fair Value Price/NWE,NE,USD
+POLIMECN Index,China Methanol CFR Price USD/T,CH,USD
+SOLANA Index,Renewable Energy - Solar - Tot,MULT,
+CDUTUNST Index,Total United States Crude (Atm,US,
+OSCASPES Index,US Strategic Petroleum Reserve,US,
+CDFLM1 Index,European Crude Dated Brent vs,GB,USD
+FLNG1YTC Index,LNG Tanker 1 Year Time Charter,,USD
+NASS000F Index,PLATTS US HRC Steel lead times,,
+EEX3CRT3 Index,EEX EUA Auction Cover Ratio Ph,GE,
+AICNST09 Index,China Aluminum Inventories Tot,CH,
+COCAIVNY Index,ICE  145 lb Cocoa Bag Inventor,US,
+DOEDFMG4 Index,DOE Finished Mogas Product Sup,US,
+EEUAM0 Index,Bloomberg Fair Value European,MULT,EUR
+FSTUM1 Index,ICE NL Natural Gas TTF Futures,NE,USD
+GDTRGOLD Index,SPDR Gold Trust Gold Holdings,US,
+NGMPTOTL Index,Total U.S. Natural Gas Markete,US,
+GCPIRCPI Index,Real Carbon Price Index,MULT,USD
+IU60AVAK Index,Dutch TTF NatGas Base Load Inv,,
+SHFZZIND Index,Shanghai Futures Exchange Week,CH,
+SOLWASPM Index,Solar Panel/Solar Module 120W+,,USD
+ST14WO Index,World Crude Oil & Liquid Fuels,,
+FSNGS WI2425 Index,Bloomberg Fair Value Price/Nym,US,USD
+NOAAONI Index,NOAA Climate Prediction Center,US,
+EOK4 Comdty,E-MINI NATURAL GA May24,US,USD
+GOEWM1 Index,East-West Asia Gasoil 10ppm FO,SI,USD
+CBT1SNCN Index,Bloomberg CFTC CBT Soybeans Ne,US,
+CFCDRMMN Index,CFTC NYMEX RBOB Managed Money,US,
+CVCNDOPN Index,China Coking Coal A 10.5% V 20,CH,CNY
+USPS01PO Index,Permian Basin Shale Oil Produc,US,
+PBFSM1   Index,US Thermal Coal PRB 8800 btu/l,US,USD
+PCW1 Comdty,Generic 1st 'PCW' Future,US,USD
+CIOSHEBE Index,China Iron Ore Spot Price Hebe,CH,CNY
+ELUBS SU24 Index,UK Power Baseload Forward Seas,GB,GBP
+DFPK4 Comdty,Dutch Power Bsl M May24,DE,EUR
+FINSBSEA Index,SE Asia Butadiene (Olefins) CF,MULT,USD
+BOILMN2G Index,Base Oil Price Motiva Gulf Coa,US,USD
+CRCRCIPW Index,China Crude Oil Inventory at P,CH,
+FINSOUSG Index,US Gulf Polymer-Grade Propylen,US,USd
+GIOS0097 Index,GX Crude Oil Dubai FOB Partial,UA,USD
+NAMG001E Index,PLATTS MVS Rebar China Domesti,,USD
+GSDEDUSI Index,US Lower 48 Natural Gas Estima,US,
+FVHCM M24 Index,NYMEX Heating Oil Futures minu,US,USD
+LWFSSPOT Index,Low Carbon Fuel Standards Cred,US,USD
+FSBTM1 Index,Bloomberg Fair Value/ICE Brent,MULT,USD
+FSGJM1 Index,Bloomberg Fair Value Price/USG,US,USd
+FSDUM H24 Index,Bloomberg Fair Value Price/Dub,UA,USD
+GCFPUREG Index,Egypt Urea Spot Price,EG,USD
+NAST0001 Index,PLATTS TSI HMS 1/2 80:20 Deep-,,USD
+USRFAUSA Index,US Retail Automotive Gasoline,US,USD
+FVQCM2 Index,ICE Gasoil Futures minus ICE B,MULT,USD
+GSFLCTOT Index,Dry Gas Total Net Imports from,,
+NYM2PNCN Index,Bloomberg CFTC NYME Palladium,US,
+FFHSM1 Index,Bloomberg Fair Value/Houston S,US,USD
+S6USYEHT Index,United States Silicon Metal 98,US,USD
+CMXOCNCN Index,Bloomberg CFTC CMX Copper Net,US,
+FDBSM J24 Index,Bloomberg Fair Value Price/Dat,GB,USD
+STANOCFB Index,North America Steel OCTG P110,US,USD
+COASNE55 Index,Australia Newcastle Port Therm,AU,USD
+ELGBYR3  Index,Germany Power Baseload Forward,GE,EUR
+SSGEM1 Index,Germany Spark Spread Baseload,GE,EUR
+FNLAY 25 Index,ERCOT North Load Zone Real Tim,US,USD
+GOEWM K24 Index,East-West Asia Gasoil 10ppm FO,SI,USD
+PPC1 Comdty,Generic 1st 'PPC' Future,US,USD
+TC5FM1 Index,TC5 FFA 55kt Middle East to Ja,MULT,
+JMATPLAT Index,Johnson Matthey Platinum Spot,MULT,USD
+S3IN0002 Index,India HR Coil IS2062 3.0mm In,IN,INR
+SOSPALAS Index,Middle East Arab Light Crude S,MULT,USD
+BASMSBPA Index,CEPEA Brazil ESALQ Soybean Who,BZ,BRL
+BZPTAVDI Index,Brazil Oil Average Diesel Pric,BZ,BRL
+JFC1 Comdty,Generic 1st 'JFC' Future,US,USD
+PFATIO65 Index,PLATTS IO fines Fe 65% $/DMt,,USD
+COTLOOKA Index,Cotlook Ltd Raw Cotton A Index,MULT,USd
+CSPWHRSE Index,China Weekly Hot Rolled Steel,CH,USD
+S58FM1 Index,Supramax 58 TC FFA 58kt Timech,MULT,USD
+FVXRM2 Index,NYMEX RBOB Gasoline Futures mi,US,USD
+USCREMSW Index,Edmonton Crude Oil Mixed Sweet,CA,USD
+LQM1SPVL Index,ClearLynx VLSFO Bunker Fuel Sp,SI,USD
+FFHHY 25 Index,Bloomberg Fair Value/Henry Hub,US,USD
+FZWWWST Index,Global Crude Oil on Water,MULT,
+ISIX62LU Index,Iron Ore Spot Price Index 62%,CH,USD
+MOGFM92S Index,Gasoline Singapore 92 RON FOB,SI,USD
+NEXK4M Comdty,NOMX Nordic Base  May24,NO,EUR
+RIN6Y 24 Index,US Ethanol D6 RINs Y Price 202,US,USD
+FDB1Y Comdty,Generic 1st 'FDBY' Fut,SE,EUR
+GMELITBS Index,GME Day-Ahead Baseload Spot Pr,IT,EUR
+POLIBERO Index,Rotterdam Benzene Aromatics FO,NE,USD
+TTE8SPO2 Index,EU Titanium Dioxide (TiO2) Spo,MULT,USD
+CARMN2SX Index,China Carbon Black N220 Shanxi,CH,CNY
+CEI1GNCL Index,CFTC CEI Gold Non-Commercial L,US,
+CGIEEUWI Index,GIE Europe Gas Withdrawal (GWh,,
+DL1 Comdty,Generic 1st 'DL' Future,US,USD
+IOECBZ65 Index,Iron Ores Fines 65% Fe Offshor,CH,USD
+NEFCWSTF Index,BNEF Estimated Canadian West W,CA,
+SLVRLN Index,LBMA Silver Price - Price/US C,GB,USd
+IMM3CNCN Index,Bloomberg CFTC CME Canadian Do,,
+NGNECNGO Index,Eastern Gas South Point Natura,US,USD
+STANRBXW Index,US Midwest Steel Rebar Spot Ex,US,USD
+C5TCBOM Index,Capesize 5TC FFA 180kt Timecha,MULT,USD
+FSJBM1 Index,BFV/Asia Jet Kerosene FOB Sing,SI,USD
+PGCRARLT Index,Bloomberg Arabian Gulf Arab Li,SR,USD
+TFF2GAIN Index,CFTC CBT 2 Year US T Notes Ass,,
+ZS1 Comdty,Generic 1st 'ZS' Future,IN,INR
+WC24M Z24 Index,Washington Carbon Allowance (W,,USD
+AEO135 Index,Brent Spot ($/barrel) nominal,US,USD
+DWOPWRLD Index,DOE World Crude Oil Production,MULT,
+LCBMASCF Index,Asia Lithium Carbonate CIF Swa,MULT,USD
+RUAPWN12 Index,Russia Wheat 12.5% FOB Novoros,RU,USD
+C5TCQ1 Index,Capesize 5TC FFA 180kt Timecha,MULT,USD
+ENWSSPAV Index,System Daily Average EUR (Nord,MULT,EUR
+MATSBNFB Index,PolymerUpdate.com Benzene (Aro,US,USd
+API31MON Index,Australia Coal 6000kcal FOB Ne,AU,USD
+EGTH1MON Index,Germany THE Natural Gas Forwar,GE,EUR
+ERDNHBHO Index,ERCOT HB_HOUSTON Day Ahead LMP,US,USD
+FVXHM Q24 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+TTFGBOM  Index,Netherlands TTF Natural Gas Fo,NE,EUR
+CEI1SNCN Index,Bloomberg CFTC CMX Silver Net,US,
+F35BM1 Index,European Fuel Oil 3.5% FOB Rot,NE,USD
+BAAWETHB Index,CEPEA Brazil ESALQ Ethanol Hyd,BZ,BRL
+FSQCM H24 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+LPGSCWPP Index,North American Spot LPGs/NGLs,US,USd
+ENWSS3AL Index,Stockholm Daily Average EUR (N,SW,EUR
+PXB1M Comdty,Generic 1st 'PXBM'Future,DE,EUR
+Z1CNHCOF Index,China Zinc Concentrate Treatme,CH,USD
+CFCDMMMN Index,CFTC ICE Coffee C Managed Mone,US,
+FOEXBHKP Index,Europe Pulp BHKP PIX Index USD,MULT,USD
+INCLICTO Index,India Domestic Coal Actual Sto,IN,
+SSGEY1 Index,Germany Spark Spread Baseload,GE,EUR
+C51 Comdty,Generic 1st 'C5' Future,RU,USD
+LPGFAGPP Index,Bloomberg Arab Gulf LPG Propan,SR,USD
+PASOG10S Index,Platts Gasoil 10PPM FOB Spore,,USD
+PUSAETHA Index,NEXANT Price - Ethane - United,US,USD
+TFF1DAIN Index,CFTC CME Japanese Yen Asst Mgr,,
+CHECBLCK Index,Mercantile Exchange US Cheddar,US,USD
+FDHCM1 Index,Dubai Hydrocracker (HCU) Refin,MULT,USD
+FNPAM1 Index,Bloomberg Fair Value/NWE Basis,MULT,USD
+IISTTOTL Index,IISI World Total Steel Product,MULT,
+PMMUAUMT Index,PLATTS Alumina FOB Australia $,,USD
+PTCSPLYP Index,US Polypropylene Spot Price,,USd
+NINDSOIA Index,Commonwealth Bureau of Meteoro,AU,
+TTFGY 26 Index,Netherlands TTF Natural Gas Fo,NE,EUR
+BAINCOFE Index,CEPEA Brazil ESALQ Arabica Cof,BZ,BRL
+DQB1 Comdty,Generic 1st 'DQB' Future,GB,EUR
+FNOSM J24 Index,Bloomberg Fair Value Price/NWE,NE,USD
+BCSL0032 Index,Bloomberg Singapore Jet Kerose,SI,USD
+FSDBM0 Index,Bloomberg Fair Value Price/Dat,GB,USD
+NDCNDLXH Index,China Neodymium Oxide 99% FOB,CH,USD
+NOSPQUAI Index,West Africa Qua Iboe Crude Nig,NG,USD
+GH20RHKA Index,BAFG German River Level: Rhine,GE,
+PMMUAKE0 Index,PLATTS US Alum Trans Prem Dail,,USd
+RUESEXOI Index,Russia Oil Exports,RU,
+AEO381 Index,Metallurgical Coal Avg Price t,US,USD
+CMETPRIC Index,USGS - US Cement Price Current,US,USD
+CNNCCEL Index,China National Carbon Emission,CH,CNY
+FSNGM1 Index,Bloomberg Fair Value Price/Nym,US,USD
+OPCRNIGE Index,Bloomberg OPEC Crude Oil Produ,NG,
+FUCLM1 Index,Bloomberg Fair Value US Gulf C,US,USD
+EGGYLWSE Index,USDA Large Egg Prices Delivere,US,USd
+FVXHM U24 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+TFF2GLFN Index,CFTC CBT 2 Year US T Notes Lev,,
+DOEGPROD Index,DOE Natural Gas Dry Production,US,
+NYMOCNCN Index,Bloomberg CFTC NYME Crude Oil,US,
+POLIPRNW Index,NWE Propylene Spot CIF Price E,MULT,EUR
+FPWAY 25 Index,PJM Western Hub Day Ahead Arou,US,USD
+ISIX58IU Index,Iron Ore Spot Price Index 58%,CH,USD
+TTFG1WIN Index,Netherlands TTF Natural Gas Fo,NE,EUR
+AICNIWSH Index,China Aluminum Premium Shangha,CH,CNY
+CEHGM H24 Index,US Continental Gas Heating Deg,,USD
+FSXRM1 Index,NYMEX RBOB Gasoline minus ICE,US,USD
+ZLSJ24 Comdty,PJM WH RT PK MINI Apr24,US,USD
+CECNRN04 Index,China Copper Smelting and Refi,,
+ITP1 Comdty,Generic 1st 'ITPA',DE,EUR
+SHASSPOT Index,North America Shredded Auto St,MULT,USD
+EGSINCAD Index,Powernext Gas THE Germany Euro,GE,EUR
+FPJRY 26 Index,Bloomberg Fair Value Price/ PJ,US,USD
+LNGG30DT Index,LNG on Water for at least 30 D,MULT,
+PXPEIDTB Index,Poland Power Index TGeBase,PD,PLN
+TDIMHUDO Index,China TDI Spot Price Huadong,CH,CNY
+USCRANSW Index,Crude Oil Alaska North Slope (,US,USD
+AJKMSPOT Index,Asia JKM LNG DES Japan-Korea C,,USD
+BPCECHBN Index,USDA Chicken Boneless Breast R,US,USD
+BVF5 Comdty,ICE RBY YEAR COAL Jan25,GB,USD
+EFPSGOLD Index,Gold EFP,,USD
+FJPNM1 Index,Bloomberg Fair Value/Japan C&F,JN,USD
+SBO0URF1 Index,Argentina Soybean Oil FOB Up R,AR,USD
+ZORBSPOT Index,North America Zorba 90% NF Alu,MULT,USD
+CCSMCOBL Index,China Shanghai Changjiang Coba,CH,CNY
+JCIAPGLN Index,China Pig Tradable Domestic Pr,CH,CNY
+TTFGM J24 Index,Netherlands TTF Natural Gas Fo,NE,EUR
+FJPPCOTN Index,FIBER US Commodity Cotton Spot,US,USd
+L4CN99CF Index,China Lithium Carbonate 99.5%,CH,USD
+TCPMCQWM Index,Soda Ash Market - FOB (West Eu,MULT,USD
+GAANAGGR Index,Norway Total Exit Daily Histor,,
+HOGOM1 Index,NY Harbor ULSD 1st Line vs Low,,USd
+IISTEURO Index,World Steel Association Crude,MULT,
+CLCFACPW Index,US California Low Carbon Fuel,US,USD
+ST25TC Index,US Electricity Industry Overvi,US,
+TO1 Comdty,Generic 1st 'TO' Future,US,USD
+CBT3TNCN Index,Bloomberg CFTC CBT US Treasury,,
+MERSPVUS Index,US Domestic PVC Resin Suspensi,US,USd
+NYM1CNCL Index,CFTC NYMEX Crude Oil Light Swe,US,
+ZRCNUTDP Index,China Zircon Sand Australian Z,CH,CNY
+DATFDVRT Index,DAT Freight & Analytics  Natio,US,
+DBRST3PA Index,EEX European Emission Allowanc,GE,EUR
+DSGEY1 Index,Germany Dark Spread Baseload Y,GE,EUR
+ERNFSPOT Index,US Power ERCOT North Zone Peak,US,USD
+FCCLM1 Index,Bloomberg Fair Value US Gulf C,US,USD
+FSCOM H24 Index,Bloomberg Fair Value Price/ICE,GB,USD
+MOIGCB87 Index,US Gulf Coast Gasoline 85 Octa,US,USd
+P4TCQ Q224 Index,Panamax 4TC FFA 74kt Timechart,MULT,USD
+GSDEDUSR Index,US Lower 48 Natural Gas Estima,US,
+TCPMCQCL Index,Chlorine US - Domestic Liquid,US,USD
+FSCLM1   Index,Bloomberg Fair Value Price/Nym,US,USD
+GLCNIMCH Index,China Non-Monetary Gold Import,,
+GZEUST Index,Europe Natural Gas Inventory,,
+ZLS1 Comdty,Generic 1st 'ZLS' Future,US,USD
+MB088252 Index,"Petroleum needle coke 0.5% S,",,CNY
+TFC1DAIN Index,CFTC CME Japanese Yen Asst Mgr,,
+TGEUWOQR Index,Europe Tungsten APT 88.5% In w,NE,USD
+CRKS321A Index,US West Coast Alaskan North Sl,US,USD
+GCFPAMMC Index,US Cornbelt Ammonia Spot Price,US,USD
+IVOLGOLD Index,Gold 3M Implied Volatility,,
+OLE1ITM1 Index,Commodity3 Olive Oil Italy Ext,IT,EUR
+CEI1GOIN Index,CFTC CEI Gold Total Open Inter,US,
+GMEPIT24 Index,Day-ahead Power PUN (Single Na,IT,EUR
+CFCDQMMS Index,CFTC NYMEX Crude Oil Managed M,US,
+CUFURDCN Index,China Copper Refined Demand,CH,
+FSDGM1 Index,BFV/Asia Gasoil 10ppm FOB Sing,SI,USD
+COMXALTL Index,Comex Aluminum Total Stocks in,US,
+EIAUUSA Index,Total Electricity Net Generati,US,
+GASL500P Index,Gasoil 500ppm Singapore FOB Ca,SI,USD
+POLICSNA Index,NE Asia Caustic Soda FOB Price,MULT,USD
+ARASFO Index,PJK International ARA Fuel Oil,MULT,
+CFFDSMMN Index,CFTC CMX Silver Managed Money,US,
+COCMEQLQ Index,Cocoa Merchants Ecuador Cocoa,US,USD
+FSNGS SU25 Index,Bloomberg Fair Value Price/Nym,US,USD
+PLTMLNAM Index,London Metal Exchange Platinum,GB,USD
+SHFUCUFO Index,Shanghai Futures Exchange Copp,,
+URAPBOM Index,US Uranium U3O8 Physical BOM,US,USD
+AHOYIMEU Index,NWE & Eastern Europe Daily LNG,,
+BAINCORN Index,CEPEA Brazil ESALQ Corn Wholes,BZ,BRL
+GOLDECPM Index,LBMA Gold Price PM EUR,GB,EUR
+IBRBM1 Index,ICE Brent Crude Oil RBOB Gasol,MULT,USD
+AACNOMGD Index,China Alumina 99% in East Chin,CH,CNY
+BXCNPC01 Index,China Domestic Bauxite Average,CH,CNY
+FLSEM1 Index,Bloomberg Fair Value/EU Marine,NE,USD
+MAPOPLM1 Index,Malaysia RBD Palm Olein FOB Ex,MA,USD
+POLIMESE Index,SE Asia MEG CFR Price USD/Ton,MULT,USD
+TQTN4 Comdty,ITALIAN BASE QTR  Jul24,DE,EUR
+EZM4 Comdty,QLD BASE ELEC FUT Jun24,AU,AUD
+RIN3Y 24 Index,US Cellulosic Biofuel D3 RIN Y,US,USD
+USCSWTIM Index,Crude Oil WTI Midland vs Cushi,US,USD
+CRKS321O Index,US Mid-Continent WTI Midland C,US,USD
+CURIIQTL Index,China Refined Copper Total Imp,CH,
+DOEDDFO4 Index,DOE Distillate Fuel Oil Produc,US,
+PCRUFRT2 Index,Platts European Forties Crude,,USD
+GCM11637 Index,Crude Oil Syncrude Sweet Blend,CA,USD
+IRBZEX Index,Brazil Iron Ore Exports,BZ,
+SYB0BRF1 Index,Commodity3 Brazil Soybeans FOB,BZ,USD
+TFF3ILFN Index,CFTC CME 3-Month SOFR Leverage,,
+USCSMEHC Index,Crude Oil WTI Houston vs Cushi,US,USD
+TALOIYGN Index,USDA Tallow & Protein Fob Cent,US,USD
+TFF2FLFN Index,CFTC CBT Ultra Long Term US T,,
+USDPCSAM Index,US Real Disposable Personal In,,
+FUCOM1 Index,Bloomberg Fair Value US Gulf U,US,USD
+MOIGC93P Index,US Gulf Coast Gasoline 93 Octa,US,USd
+CFCDHMMN Index,CFTC CBT SoyO Managed Money Ne,US,
+CFCDQMML Index,CFTC NYMEX Crude Oil Managed M,US,
+FVCCM1   Index,Bloomberg Fair Value Price/NYM,US,USD
+GCM11635 Index,Crude Oil Western Canadian Sel,CA,USD
+ICCBBMML Index,ICE Brent Crude COT Managed Mo,GB,
+N6SH180S Index,Fuel Oil 180 CST Singapore FOB,SI,USD
+PULPGPSB Index,Global Pulp Shipment Monthly,,
+CFFDQMMN Index,CFTC NYMEX Crude Oil Managed M,US,
+JCCFSPOT Index,Japan Crude Cocktail Forward S,,USD
+N6GF3.0 Index,Fuel Oil 3.5% 380 CST FOB USGC,US,USD
+UNS1SPOT Index,Uranium 308 Physical Price SPO,,USD
+VE1 Comdty,Generic 1st 'VE' Future,US,USD
+CCKPYCHU Index,China Prime Coking Coal Yinchu,CH,CNY
+DIEN10CF Index,ULSD NWE CIF Cargoes,MULT,USD
+FVXHM JUN1 Index,NYMEX RBOB Gasoline Futures mi,US,USd
+IMMOPNCN Index,Bloomberg CFTC CME British Pou,,
+WTGJM1 Index,US Gulf Coast 54 Grade Jet Fue,US,USD
+BOXPC185 Index,USDA Boxed Pork Carcass Cut 20,US,USD
+CBT55NCN Index,Bloomberg CFTC CBT 5-Yr US Tre,,
+FSDSM1 Index,Bloomberg Fair Value Price/ Si,SI,USD
+GCFPUBGC Index,Urea Brazil Granular CFR mt Sp,BZ,USD
+PLSI1040 Index,Platts Iron Ore Spot Lump Prem,,USD
+BMRSWIND Index,Power Generation for Wind Plan,GB,
+PLPH0AAI Index,PolishedPrices.com Diamond Pri,GB,USD
+DFU3OMMN Index,CFTC NYMX Platinum Managed Mon,US,
+ECAGSUGA Index,EU White Sugar Average Price M,,
+OMPTDAHD Index,OMEL Day Ahead Baseload Electr,PO,EUR
+SCROWTIC Index,US Crude Oil West Texas Interm,US,USD
+STA1 Comdty,Generic 1st 'STA' Future,US,USD
+CBTPTNCN Index,Bloomberg CFTC CBT 10-Yr US Tr,,
+ELUBQTR2 Index,UK Power Baseload Forward Quar,GB,GBP
+FKN4 Comdty,ICE New Coal Qu F Jul24,GB,USD
+FOEXNBSK Index,Europe Pulp NBSK PIX Index USD,MULT,USD
+MUCM24 Comdty,Murban Crude Fut  Jun24,AE,USD
+BCSL0075 Index,US Crude Oil WTI Midland Spot,US,USD
+CCADEC1 Index,US California Carbon Allowance,US,USD
+ENASENA2 Index,Bloomberg ICE WTI Crude Oil 12,US,USD
+EVSAEVGL Index,Annual EV Sales - Global (mill,,
+FWCDM1 Index,Bloomberg Fair Value/WCS TMX 1,MULT,USD
+JKL1 Comdty,Generic 1st 'JKL' Future,US,USD
+LNGPXAEU Index,Europe LNG DES Daily Spot Pric,MULT,EUR
+PUSPETCD Index,Platts Ethanol Spot Price/Chic,,USd
+BAKMWRLD Index,Baker Hughes Total World Oil A,MULT,
+CCKPTANG Index,China First Grade Metallurgica,CH,CNY
+POLIROTT Index,Rotterdam Methanol FOB Price E,NE,EUR
+QZ1 Comdty,Generic 1st 'QZ' Future,US,USD
+RLWORCGZ Index,US Lumber Random Length Dimens,US,USD
+S58FY 25 Index,Supramax 58 TC FFA 58kt Timech,MULT,USD
+TTFG1SUM Index,Netherlands TTF Natural Gas Fo,NE,EUR
+AJKMM2 Index,Asia JKM LNG DES Japan-Korea C,JN,USD
+ARASKERO Index,PJK International ARA Jet-Kero,MULT,
+CMDIBASS Index,Bloomberg Base Metals Spot Pri,GB,
+CDSPSPAV Index,China Domestic Steel Plate 20m,CH,CNY
+DOEDTPRD Index,DOE Oil Total Products Supplie,US,
+LPGSMBNG Index,North American Spot LPGs/NGLs,US,USd
+NGCGNYNY Index,Texas Eastern Transmission (TE,US,USD
+PJMFY1 Index,US Power PJM Western Hub Real,US,USD
+USCSUHC1 Index,US Crude Oil Bakken Clearbrook,US,USD
+AHOYEXUS Index,United States Daily LNG Export,US,
+CMEOLNNT Index,CFTC CME Live Cattle Non-Comme,US,
+MBCNLUFJ Index,China Molybdenum 99% Spot,,CNY
+PLTKLICA Index,Platts Lithium Carbonate Price,,USd
+RBOBG87P Index,RBOB Regular Gasoline F Coloni,US,USD
+API2QTR1 Index,Europe Coal 6000kcal CIF ARA F,MULT,USD
+BOXPBE85 Index,USDA Boxed Pork Belly Cut 200,US,USD
+PWEUETHN Index,NEXANT Price - Ethylene - West,MULT,USD
+RKK4 Comdty,NAT GAS PHYS TAS  May24,US,USD
+C5TCM J24 Index,Capesize 5TC FFA 180kt Timecha,MULT,USD
+CO22C100 Index,Argus/Metallurgical Coal low v,,USD
+ELUBS WI2425 Index,UK Power Baseload Forward Seas,GB,GBP
+FSXRM K24 Index,NYMEX RBOB Gasoline minus ICE,US,USD
+FVHCM J24 Index,NYMEX Heating Oil Futures minu,US,USD
+IMMTENCN Index,Bloomberg CFTC CME E-Mini S&P,,
+NGWCSCCG Index,Southern California Gas (Socal,US,USD
+NYM1CTLL Index,CFTC NYMEX Crude Oil Light Swe,US,
+ELUB1WIN Index,UK Power Baseload Forward Wint,GB,GBP
+FSB1M1 Index,Bloomberg Fair Value Price/Rot,MULT,USD
+IRCNSTCH Index,China Iron Ores Ports Inventor,,
+MOIGC87A Index,Bloomberg Gulf Coast 87 Octane,US,USd
+SYBBBRF2 Index,Commodity3 Brazil Soybeans FOB,BZ,USd
+C0CNIM Index,China Coal Imports,CH,
+FPJRY 25 Index,Bloomberg Fair Value Price/ PJ,US,USD
+FSQCM2 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+HOGSNATL Index,USDA National Markets 51-52% L,US,USD
+IHW1 Comdty,Generic 1st 'IHW' Future,US,USD
+PSVGM1 Index,Italy PSV Natural Gas Forward,IT,EUR
+FPJMM1 Index,Bloomberg Fair Value Price/ PJ,US,USD
+GCFPAMIN Index,India Ammonia CFR Spot Price i,IN,USD
+NEX1M Comdty,Generic 1st 'NEXM'Future,NO,EUR
+Q1CNCJKU Index,China Chrome Concentrate South,SA,USD
+AISIROCU Index,American Iron and Steel Instit,US,
+BCSL0084 Index,Western Canada Select Crude Oi,US,USD
+GLCNIV Index,China Non-Monetary Gold Total,,USD
+LICNSMLI Index,China Domestic Lithium Metal 9,,CNY
+OPCRECTO Index,Bloomberg OPEC Crude Oil OPEC,,
+PASOSPFO Index,Platts 380 Centistoke 3.5% Hig,,USD
+BRIASARD Index,Brazil Mato Grosso IMEA Soybea,BZ,BRL
+BWAHM1 Index,US Natural Gas Waha Hub Basis,US,USD
+CGIEDEST Index,GIE Germany Gas Storage (TWh),GE,
+COC0CIQ1 Index,Cocoa Good Fermented (FOB-Ivor,IV,EUR
+FLSOM0 Index,Bloomberg Price/Ultra Low Sulf,MULT,USD
+FSCLY 26 Index,Bloomberg Fair Value Price/Nym,US,USD
+NAPH40NP Index,Heavy Naphtha USGC Barge MKTMI,US,USD
+PLCNPZVZ Index,China Polysilicon 9N Delivered,CH,CNY
+RIGJAD28 Index,RigLogix Current Average Day R,,USD
+BCSL0031 Index,US New York Harbor Jet Fuel 54,US,USd
+EGSINCED Index,Powernext Gas THE Germany End,GE,EUR
+JETIGCAM Index,Bloomberg Gulf Coast 54-Grade,US,USd
+NO2IGCPR Index,US Gulf Coast No. 2 Heating Oi,US,USd
+NOAANT34 ANOM Index,NOAA Climate Prediction Center,US,
+OAWWPR Index,Global Cocoa Production,MULT,
+ACFFPCDT Index,Average Cost of Fossil Fuels P,US,USD
+COALPWDR Index,Bloomberg Powder River Basin 8,US,USD
+ELGBQ Q224 Index,Germany Power Baseload Forward,GE,EUR
+BASMSBSO Index,CEPEA Brazil ESALQ Soybean Who,BZ,BRL
+EPUSTOT Index,Edison Electric United States,US,
+FSHCY 24 Index,Bloomberg Fair Value Price/Hea,US,USD
+RUSOTTDY Index,Russian Oil Output Total Daily,RU,
+USCSECON Index,Canada C5 Condensate fob Edmon,CA,USD
+DIEINULP Index,ULSD NY Buckeye MKTMID,US,USD
+DOEINICR Index,US DOE Crude Oil Net Imports I,US,
+FDHCM0 Index,Dubai Hydrocracker (HCU) Refin,MULT,USD
+JXTN4 Comdty,Phelix DE Base Q  Jul24,DE,EUR
+NGBH.ETH Index,Ethanol Cash Margin cents per,US,USD
+TTFG2MON Index,Netherlands TTF Natural Gas Fo,NE,EUR
+VEGOSFYZ Index,Ukraine Sunflower Oil FOB Chor,UK,USD
+AMEUDDP Index,European Rotterdam Aluminum In,NE,USD
+FNNSM J24 Index,Bloomberg Fair Value Price/NWE,MULT,USD
+NAMC0018 Index,PLATTS High Vol A Coking Coal,,USD
+QZTN4 Comdty,TTF NAT GAS Q     Jul24,NL,EUR
+CECDARD Index,Brazil Cecafe Data - Arabica D,BZ,
+CFCDOMMN Index,CFTC NYMEX Natgas Managed Mone,US,
+CHCNMEDI Index,China Chemicals SunSirs MDI Me,CH,CNY
+FINSBUSG Index,US Gulf Butadiene CIF Spot Pri,US,USd
+GCFPNTBS Index,Black Sea Ammonium Nitrate Spo,MULT,USD
+NAPHSINF Index,Naphtha Singapore FOB Cargoes,SI,USD
+S58FQ Q224 Index,Supramax 58 TC FFA 58kt Timech,MULT,USD
+SCTSNOVE Index,Suez Canal Traffic Statistics,EG,
+SGLDWDPA Index,Global Gold Mine Production An,,
+XAJ4XAK4 Comdty,ICE RTD MONTH COA J4-K4,GB,USD
+BPCEGRBF Index,USDA Ground Beef Retail Price,US,USD
+FSQCQ Q224Q324 Index,Bloomberg Fair Value Price/ICE,MULT,USD
+JMATPALL Index,Johnson Matthey Palladium Spot,MULT,USD
+TCPMCQUE Index,Soda Ash United States - Domes,US,USD
+FEGBM1 Index,Bloomberg Fair Value Germany B,GE,EUR
+RSQSM1 Index,Jet Fuel FOB Barges Rotterdam,NE,USD
+TFC1NAIN Index,CFTC CME E Mini S&P 500 Asst M,,
+C1USESI Index,United States Corn Ending Stoc,US,
+FOEXUSNB Index,US Pulp NBSK PIX Index,US,USD
+BCNGM1 Index,US Natural Gas Dominion South,US,USD
+CFFDCMMN Index,CFTC CBT Corn Managed Money Ne,US,
+ELSBDAHD Index,Spain Power Baseload Forward D,SP,EUR
+ETOXHUNA Index,China Ethylene Oxide Spot Pric,CH,CNY
+LPXBHR01 Index,Epex Spot Germany Day-Ahead Au,GE,EUR
+MACNRDAY Index,China Magnesium Ingot 99.9% FO,CH,USD
+MBBLM1 Index,US Mont Belvieu non TET Normal,US,USd
+PEIMCRUD Index,India Crude Oil Imports Quanti,IN,
+PRMMCOPP Index,Peru Copper Production Monthly,PE,
+WBPCMHPR Index,Potassium Chloride (Muriate of,CA,USD
+AHOYEXQA Index,Qatar Daily LNG Exports (AHOY,QA,
+CHICNEBB Index,USDA Northeast Broiler Fryer B,US,USd
+DEIBM2 Index,Middle East Dubai Crude EFS vs,UA,USD
+EC1 Comdty,Generic 1st 'EC' Future,US,USD
+ENNSHEPK Index,Nord Pool Finland Day Ahead Pe,FI,EUR
+FACJ4K4 Comdty,FRENCH BASE M SPR J4-K4,DE,EUR
+FSSKM1 Index,Bloomberg Fair Value Price/Sin,SI,USD
+IMM5JOIN Index,CFTC CME Japanese Yen Total Op,,
+NBPGWTHN Index,UK NBP Natural Gas Forward Wit,GB,GBp
+OPCRVENZ Index,Bloomberg OPEC Crude Oil Produ,VZ,
+CBTOCNCN Index,Bloomberg CFTC CBT Corn Net No,US,
+GSLIQCOV Index,LNG Net Flows Cove Point,US,
+NGCANHUN Index,Huntingdon BC/Sumas WA USD/MMb,CA,USD
+NZUSYR1 Index,First Year New Zealand Units (,NZ,NZD
+CECNST07 Index,China Copper Smelters Inventor,,
+ELUBS WI2627 Index,UK Power Baseload Forward Seas,GB,GBP
+EPEXHR13 Index,European Electricity Index (EL,MULT,EUR
+IVOLSOYB Index,Soybeans 3M Implied Volatility,,
+JMATRUTH Index,Johnson Matthey Ruthenium Spot,MULT,USD
+LACRMAUS Index,PMI OSP Crude Oil Maya US Gulf,MX,USD
+CC24M1 Index,US California Carbon Allowance,US,USD
+CCALSALE Index,CFTC Cotton on Call Weekly Unf,US,
+CECNST18 Index,China Copper Cathode Bonded Wa,,
+CRPPAVG Index,Canada Regular Gasoline Averag,CA,CAd
+EEDANCG1 Index,PEGAS THE Spot - Day-Ahead,GE,EUR
+MXAPAGMI Index,Mexico City Hass Avocado Price,MX,MXN
+PWEUPRPY Index,NEXANT Price - Polypropylene -,MULT,USD
+CHPZGCIW Index,China Gasoline Commercial Inve,CH,
+ENGEDMSE Index,Brazil ONS Hydroelectricity St,BZ,
+GCFPMABZ Index,Brazil MAP CFR Spot Price,BZ,USD
+WMIK4 Comdty,Micro WTI Crude F May24,US,USD
+C5TCY1 Index,Capesize 5TC FFA 180kt Timecha,MULT,USD
+FBHSM1 Index,Bloomberg Fair Value/Houston S,US,USD
+ICCBBMMS Index,ICE Brent Crude COT Managed Mo,GB,
+NATD00EC Index,PLATTS Dirty USGC-UK Continent,,USD
+PAL2MASY Index,Malaysian Palm Oil Board Crude,MA,MYR
+SSGSSFR Index,Styrene FOB Rotterdam Physical,NE,USD
+BLB1 Comdty,Generic 1st 'BLB' Future,US,USD
+ERCRDEMD Index,ERCOT Actual System Demand,,
+IGIFMVME Index,Mazara del Vallo Entry Intrada,IT,
+JETFLAPL Index,GX Jet Fuel Kinder Morgan Sout,US,USD
+NASJ0003 Index,PLATTS TSI Iron Ore Fines 62%,,USD
+NVM4 Comdty,HEATING OIL FUT   Jun24,GB,USD
+PSMUESCR Index,DOE PSM US Ending Stocks of Cr,US,
+EEUAM1 Index,Bloomberg Fair Value European,MULT,EUR
+ETFPPDTO Index,Palladium Holdings All Known E,,
+FWJSM1 Index,Bloomberg Fair Value Price/NWE,MULT,USD
+NABF00F7 Index,PLATTS Sustainable Aviation Fu,,USD
