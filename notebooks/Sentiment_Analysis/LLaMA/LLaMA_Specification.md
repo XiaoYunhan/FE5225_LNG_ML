@@ -1,0 +1,30 @@
+HOW TO DOWNLOAD THE MODEL
+
+Based on the model you requested, please visit the respective Github repository to run the download.sh script - Llama 3, Llama 2, Code Llama, or Llama Guard. Follow the instructions in the README to run the download.sh scripts. When the script asks for your unique custom URL, please copy and paste one of the following URLs. (Clicking on the URL itself does not access the model):
+
+Meta Llama 3:
+Meta Llama 3 repository
+README
+download.sh
+URL
+
+```
+https://download6.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoidHRsaGFhbmY4aGk3ZzRheWJqYjUwNWljIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQ2LmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTQ0MjIxOTV9fX1dfQ__&Signature=KH6nBhjFl8Y%7E%7E5X2YKw6KfdJq494NvxDtQJ75cdhNPbwEC6Iswfxl%7En4zhbAGiS1WX8rnknzVAAM9jD08hXji3oJ-bnynjGKKi6p7BEi0lMY%7EnQtd-5rN2es-semXFyzwq0XMITQdHW4GjmF4oA1Xn-GOFvMWUce5NVh6RZuAar7S9fuPnpiM6kmhadqPmbvJJvRUT3u%7EWpOW3dz-poLSoBWmrqsNmiVTIgQWbM1pe7zleutahTKsvdND9Nx7R-6--vehJOiziWL07dnpXF0qQcy0BIM27%7ENoWCJ1yNduhO3It7kxKXbowrm9n-4iRHHopQpWsMoIo3sNIpDr3P9Bw__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=2757063111108558
+```
+Meta Llama 2:
+Meta Llama 2 repository
+README
+download.sh
+URL
+```
+https://download.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiMndwbDh5aXZjcjFoYTRza2MwMXV6bDFpIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQubGxhbWFtZXRhLm5ldFwvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNDQyMjE5NX19fV19&Signature=i-xds9AXIaiD2nEtCCld5uRIFZsjv1qEs6BVL4tylIiTxdxSBUkV4l%7EJspvi83%7E-xNzbZpHLhQd7OBcM9Q%7EMmQC4lChQCcCvBpqDYURy0xInINN%7EmuxZcETUTN4zYQzl0Yuc2F2M4NdDUPqPnGIvyz%7ExX9yVXAB0tzeNnjrsYRfQHD0upNsYLVAFaqSMSgFpxwIJtVlsw7jxRIaFbKnBIbJ-Za44r-EcZugqMPN%7Eyv2hGgPfSPwKiijczLm%7EQRdCHRSYWgX6Tjj3YDrfGAhbBfJOOEjsD418wLm23XBBHWJjMX6%7EG5A8Vg9aPjr2n2z54EdalmIYlEgux%7EYEd1cJuw__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=757674016489189
+```
+
+Meta Llama Guard 2:
+Meta Llama Guard 2 repository
+README
+download.sh
+URL
+```
+https://download5.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoiazIxNGN3dmFocTJreGszMzhiNnQ1MDN4IiwiUmVzb3VyY2UiOiJodHRwczpcL1wvZG93bmxvYWQ1LmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTQ0MjIxOTV9fX1dfQ__&Signature=CVfCoYaWUDJLsPjMlGu7RRtkCUu2Gqhbt9joVDSrVhiCIY4itVy76JdplvWw-sG58SKddMgMcjmaW5PFONYNTpHJ22hivW2W9X7r8mVbMJnLDICghv9x-XBe%7EjUAMTb9K%7ETxMbMrsLeU%7EhbqsfWBpl7IN5jtEoR3iwx37MjF8-WDiIuOkzGY3XwOEZuIBI9vO5-ZsNjXRwoNLGVgrUnbQW1C9yvRbIqILerJTzVMrIiR-ntZ4K7SGaCHcobISD%7EexC9T02J0q55F65UWO7zzMr2J36dD7kaSBZzTfGkthK12us5OsrnVFAZZ%7EbHutxF7iMg-67b1lYr1oIe2wxL84A__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=989586408905798
+```
